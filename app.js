@@ -1,5 +1,5 @@
 let getstartedBtn = document.querySelector("#get-started");
-let HomeBtn = document.querySelector("Home");
+let homeBtn = document.querySelector("Home");
 let artCollectionBtn = document.querySelector("artCollection");
 
 
